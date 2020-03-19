@@ -1,0 +1,8 @@
+name: JoinQuitMessage
+main: yuiful\JoinQuitMessage\Main
+version: 1.0.1
+api: 3.0.0
+load: POSTWORLD
+author: yuiful
+description: testpluginです
+
